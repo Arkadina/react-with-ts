@@ -1,4 +1,4 @@
-# React-with-ts
+# react-with-ts
 
 My first steps introducing typescript inside ReactJS. This project is a remake of <a href="https://github.com/rocketseat-education/lista_presenca/tree/typescript">this one</a>.
 
